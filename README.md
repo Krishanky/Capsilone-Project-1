@@ -1,5 +1,5 @@
 <h1 align="center"> Play Store App Review Analysis</h1>
-<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter </a> </h5>
+
 
 <p align="center"> 
 <img src="GIF/google play.gif" alt="Animated gif" height="282px">
@@ -163,10 +163,10 @@ These are some of the aspects that the developer should research before proceedi
 
 ## 💶 Credits
 
-Contact me for Data Science Project Collaborations
 
-[![GitHub](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/San13deep)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeepmaurya13/)
+
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishan-ky-yadav/)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -183,6 +183,6 @@ Contact me for Data Science Project Collaborations
 - [Play Store App Review Analysis](https://learn.almabetter.com/courses/take/team-capstone-projects/texts/19443175-play-store-app-review-analysis)
 - [PPT Presentation Link](https://docs.google.com/presentation/d/1pWW9DDHigLfgkcfx0VFE9Sb3qsgjvkWQ/edit?usp=sharing&ouid=110479376441430594935&rtpof=true&sd=true)
 
-If you have any feedback, please reach out to us at sandeepskm13@gmail.com
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
