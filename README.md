@@ -179,10 +179,6 @@ These are some of the aspects that the developer should research before proceedi
 *	Data camp
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## 📜 Feedback
-- [Play Store App Review Analysis](https://learn.almabetter.com/courses/take/team-capstone-projects/texts/19443175-play-store-app-review-analysis)
-- [PPT Presentation Link](https://docs.google.com/presentation/d/1pWW9DDHigLfgkcfx0VFE9Sb3qsgjvkWQ/edit?usp=sharing&ouid=110479376441430594935&rtpof=true&sd=true)
-
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
